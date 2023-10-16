@@ -1,7 +1,7 @@
 def hitungKecepatan():
     print("Hitung kecepatan gass")
-    jarak = float(input("Masukkan jaraknya berapa: "))
-    waktu = float(input("Masukkan waktunya berapa: "))
+    jarak = float(input("Masukkin jaraknya berapa: "))
+    waktu = float(input("Masukkin waktunya berapa: "))
     kecepatan = jarak / waktu
     print("Kecepatan: ", kecepatan)
     input("Tekan 'Enter' untuk melanjutkan...")
